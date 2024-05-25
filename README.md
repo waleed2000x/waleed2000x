@@ -1,4 +1,4 @@
-![Header](https://your-custom-header-image-url)
+<!-- ![Header](https://your-custom-header-image-url) -->
 
 <h1 align="center">Hi there, I'm Waleed Ahmed! 👋</h1>
 <h3 align="center">WEB || iOS || ANDROID Developer - MERN Stack Enthusiast</h3>
