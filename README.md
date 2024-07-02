@@ -33,33 +33,13 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
 
 ## 🌟 Projects
 
-- ### [CineX](https://github.com/waleed2000x/CineX)
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/waleed2000x/CineX?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/waleed2000x/CineX?style=social" alt="Forks">
-  </p>
-  A platform for movie enthusiasts to explore and discover films.
-
-- ### [DocHive-Next](https://github.com/waleed2000x/DocHive-Next)
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/waleed2000x/DocHive-Next?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/waleed2000x/DocHive-Next?style=social" alt="Forks">
-  </p>
-  A document management system built with Next.js.
-
-- ### [E-commerce](https://github.com/waleed2000x/ecommerce)
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/waleed2000x/ecommerce?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/waleed2000x/ecommerce?style=social" alt="Forks">
-  </p>
-  An e-commerce application featuring React Router, Formik & Yup, Styled Components, and a dark-light theme toggle.
-
-- ### [QR Code Generator](https://github.com/waleed2000x/QR-Code-Generator-Next-js)
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/waleed2000x/QR-Code-Generator-Next-js?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/waleed2000x/QR-Code-Generator-Next-js?style=social" alt="Forks">
-  </p>
-  A web app to generate and download QR codes of various sizes.
+<p align="center">
+  <a href="https://github.com/waleed2000x/CineX"><img src="https://img.shields.io/badge/CineX-Explore-blue?style=for-the-badge" alt="CineX"></a>
+  <a href="https://github.com/waleed2000x/DocHive-Next"><img src="https://img.shields.io/badge/DocHive--Next-Explore-blue?style=for-the-badge" alt="DocHive-Next"></a>
+  <a href="https://github.com/waleed2000x/ecommerce"><img src="https://img.shields.io/badge/E--commerce-Explore-blue?style=for-the-badge" alt="E-commerce"></a>
+  <a href="https://github.com/waleed2000x/QR-Code-Generator-Next-js"><img src="https://img.shields.io/badge/QR_Code_Generator-Explore-blue?style=for-the-badge" alt="QR Code Generator"></a>
+  <!-- Add more project links as needed -->
+</p>
 
 ## 📈 GitHub Stats
 
