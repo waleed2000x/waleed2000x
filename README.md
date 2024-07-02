@@ -14,7 +14,6 @@
 
 I'm a passionate developer with expertise in web, iOS, and Android development. My focus is on creating seamless and efficient applications using the MERN stack. I love to explore new technologies and apply them to solve real-world problems.
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -25,6 +24,7 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
