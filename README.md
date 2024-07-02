@@ -4,10 +4,10 @@
 <h3 align="center">WEB || iOS || ANDROID Developer - MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://waleeddev.vercel.app/"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
-  <a href="https://expo.dev/@waleedahmed.x"><img src="https://img.icons8.com/fluency/48/000000/expo.png" alt="Expo"></a>
+  <a href="https://waleeddev.vercel.app/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/waleedahmedx" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
+  <a href="https://www.instagram.com/waleedahmed.x" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="40" height="40"></a>
+  <a href="https://expo.dev/@waleedahmed.x" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/expo.png" alt="Expo" width="40" height="40"></a>
 </p>
 
 ## 🚀 About Me
@@ -23,8 +23,6 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express">
-  <img src="https://img.icons8.com/fluency/48/000000/react-native.png" alt="React Native">
-  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
@@ -34,10 +32,10 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
 ## 🌟 Projects
 
 <p align="center">
-  <a href="https://github.com/waleed2000x/CineX">🍿 CineX</a><br>
-  <a href="https://github.com/waleed2000x/DocHive-Next">📄 DocHive-Next</a><br>
-  <a href="https://github.com/waleed2000x/ecommerce">🛒 E-commerce</a><br>
-  <a href="https://github.com/waleed2000x/QR-Code-Generator-Next-js">🔲 QR Code Generator</a><br>
+  <a href="https://github.com/waleed2000x/CineX" target="_blank">🍿 CineX</a><br>
+  <a href="https://github.com/waleed2000x/DocHive-Next" target="_blank">📄 DocHive-Next</a><br>
+  <a href="https://github.com/waleed2000x/ecommerce" target="_blank">🛒 E-commerce</a><br>
+  <a href="https://github.com/waleed2000x/QR-Code-Generator-Next-js" target="_blank">🔲 QR Code Generator</a><br>
   <!-- Add more project links as needed -->
 </p>
 
@@ -51,7 +49,7 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://waleeddev.vercel.app/"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
+  <a href="https://waleeddev.vercel.app/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/waleedahmedx" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
+  <a href="https://www.instagram.com/waleedahmed.x" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="40" height="40"></a>
 </p>
