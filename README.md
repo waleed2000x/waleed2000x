@@ -1,18 +1,26 @@
-<!-- ![Header](https://waleeddev.vercel.app/) -->
+cat << 'EOF' > README.md
+![Header](https://waleeddev.vercel.app/assets/header.png) <!-- You can create a custom header image here -->
 
-<h1 align="center">Hi there, I'm Waleed Ahmed! 👋</h1>
-<h3 align="center">WEB || iOS || ANDROID Developer - MERN Stack Enthusiast</h3>
+<h1 align="center">Hello, I'm Waleed Ahmed! 👋</h1>
+<h3 align="center">Full-Stack Developer | Mobile Enthusiast | MERN Stack Aficionado</h3>
 
 <p align="center">
-  <a href="https://waleeddev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-My%20Website-blue" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.shields.io/badge/Instagram-Follow-red" alt="Instagram"></a>
-  <a href="https://expo.dev/@waleedahmed.x"><img src="https://img.shields.io/badge/Expo-Profile-lightgrey" alt="Expo"></a>
+  <a href="https://waleeddev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-My%20Website-blue?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge" alt="Instagram"></a>
+  <a href="https://expo.dev/@waleedahmed.x"><img src="https://img.shields.io/badge/Expo-Profile-lightgrey?style=for-the-badge" alt="Expo"></a>
 </p>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate developer with expertise in web, iOS, and Android development. My focus is on creating seamless and efficient applications using the MERN stack. I love to explore new technologies and apply them to solve real-world problems.
+I'm a passionate full-stack developer with a focus on building efficient, scalable web and mobile applications. I specialize in the MERN stack and have a knack for integrating the latest technologies to solve real-world problems. My journey in development has been fueled by a constant desire to learn and improve, pushing the boundaries of what's possible in software engineering.
+
+- 🌱 Currently learning **Blockchain Development** and **Ethers.js**.
+- 🛠️ Building a multi-platform educational platform using **Next.js**, **React Native**, **MongoDB**, and **Express**.
+- 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, and **Mobile Development**.
+- 🎯 2024 Goals: Contribute to open-source projects and deepen my knowledge in blockchain and smart contracts.
 
 ## 🛠️ Tech Stack
 
@@ -31,21 +39,16 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-- ### [CineX](https://github.com/waleed2000x/CineX)
-  A platform for movie enthusiasts to explore and discover films.
+<p align="center">
+  <a href="https://github.com/waleed2000x/CineX"><img src="https://img.shields.io/badge/CineX-Movie%20Platform-orange?style=for-the-badge" alt="CineX"></a>
+  <a href="https://github.com/waleed2000x/DocHive-Next"><img src="https://img.shields.io/badge/DocHive--Next-Document%20Management-green?style=for-the-badge" alt="DocHive-Next"></a>
+  <a href="https://github.com/waleed2000x/ecommerce"><img src="https://img.shields.io/badge/E--commerce-React%20Application-blue?style=for-the-badge" alt="E-commerce"></a>
+  <a href="https://github.com/waleed2000x/QR-Code-Generator-Next-js"><img src="https://img.shields.io/badge/QR%20Code%20Generator-Next.js%20App-yellow?style=for-the-badge" alt="QR Code Generator"></a>
+</p>
 
-- ### [DocHive-Next](https://github.com/waleed2000x/DocHive-Next)
-  A document management system built with Next.js.
-
-- ### [E-commerce](https://github.com/waleed2000x/ecommerce)
-  An e-commerce application featuring React Router, Formik & Yup, Styled Components, and a dark-light theme toggle.
-
-- ### [QR Code Generator](https://github.com/waleed2000x/QR-Code-Generator-Next-js)
-  A web app to generate and download QR codes of various sizes.
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waleed2000x&show_icons=true&theme=radical" alt="Waleed's GitHub stats">
@@ -59,3 +62,4 @@ I'm a passionate developer with expertise in web, iOS, and Android development. 
   <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge" alt="Instagram"></a>
 </p>
+EOF
