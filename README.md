@@ -1,4 +1,4 @@
-![Header]('./assets/cover.jpeg')
+![Header]('/assets/cover.jpeg')
 
 <h1 align="center">Hello, I'm Waleed Ahmed! 👋</h1>
 <h3 align="center">Full-Stack Developer | Mobile Enthusiast | MERN Stack Aficionado</h3>
