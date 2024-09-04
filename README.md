@@ -1,5 +1,5 @@
+![Header]('./assets/cover.jpeg')
 
-![Header](https://waleeddev.vercel.app/assets/header.png)
 <h1 align="center">Hello, I'm Waleed Ahmed! 👋</h1>
 <h3 align="center">Full-Stack Developer | Mobile Enthusiast | MERN Stack Aficionado</h3>
 
@@ -41,10 +41,19 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/waleed2000x/CineX"><img src="https://img.shields.io/badge/CineX-Movie%20Platform-orange?style=for-the-badge" alt="CineX"></a>
-  <a href="https://github.com/waleed2000x/DocHive-Next"><img src="https://img.shields.io/badge/DocHive--Next-Document%20Management-green?style=for-the-badge" alt="DocHive-Next"></a>
-  <a href="https://github.com/waleed2000x/ecommerce"><img src="https://img.shields.io/badge/E--commerce-React%20Application-blue?style=for-the-badge" alt="E-commerce"></a>
+  <a href="https://thenexushotelapartments.com"><img src="https://img.shields.io/badge/The%20nexus%20Hotel%20Apartments-orange?style=for-the-badge" alt="nexus"></a>
+<br />
+  <a href="https://propertyport.vercel.app/"><img src="https://img.shields.io/badge/Property%20Port%20(Beta)-yellow?style=for-the-badge" alt="Property Port"></a>
+<br />
   <a href="https://github.com/waleed2000x/QR-Code-Generator-Next-js"><img src="https://img.shields.io/badge/QR%20Code%20Generator-Next.js%20App-yellow?style=for-the-badge" alt="QR Code Generator"></a>
+<br />
+  <a href=""><img src="https://img.shields.io/badge/Radius-white?style=for-the-badge" alt="Radius"></a>
+<br />
+  <a href="https://github.com/waleed2000x/CineX"><img src="https://img.shields.io/badge/CineX-Movie%20Platform-orange?style=for-the-badge" alt="CineX"></a>
+<br />
+  <a href="https://github.com/waleed2000x/DocHive-Next"><img src="https://img.shields.io/badge/DocHive--Next-Doctors%20Management-green?style=for-the-badge" alt="DocHive-Next"></a>
+<br />
+  <a href="https://github.com/waleed2000x/ecommerce"><img src="https://img.shields.io/badge/E--commerce-React%20Application-blue?style=for-the-badge" alt="E-commerce"></a>
 </p>
 
 ## 📊 GitHub Stats
