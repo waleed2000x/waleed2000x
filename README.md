@@ -1,4 +1,5 @@
-![Header](https://waleeddev.vercel.app/assets/header.png)
+cat << 'EOF' > README.md
+![Header](https://waleeddev.vercel.app/assets/header.png) <!-- You can create a custom header image here -->
 
 <h1 align="center">Hello, I'm Waleed Ahmed! 👋</h1>
 <h3 align="center">Full-Stack Developer | Mobile Enthusiast | MERN Stack Aficionado</h3>
@@ -54,6 +55,12 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed2000x&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waleed2000x&style=for-the-badge&color=blue" alt="Waleed's Profile Views">
+</p>
+
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -61,3 +68,4 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
   <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge" alt="Instagram"></a>
 </p>
+EOF
