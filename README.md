@@ -41,13 +41,13 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://thenexushotelapartments.com"><img src="https://img.shields.io/badge/The%20nexus%20Hotel%20Apartments-orange?style=for-the-badge" alt="nexus"></a>
+  <a href="https://thenexushotelapartments.com"><img src="https://img.shields.io/badge/The%20nexus%20Hotel%20Apartments-orange?style=for-the-badge" alt="The nexus Hotel Apartments"></a>
 <br />
   <a href="https://propertyport.vercel.app/"><img src="https://img.shields.io/badge/Property%20Port%20(Beta)-yellow?style=for-the-badge" alt="Property Port"></a>
 <br />
   <a href="https://github.com/waleed2000x/QR-Code-Generator-Next-js"><img src="https://img.shields.io/badge/QR%20Code%20Generator-Next.js%20App-yellow?style=for-the-badge" alt="QR Code Generator"></a>
 <br />
-  <a href=""><img src="https://img.shields.io/badge/Radius-white?style=for-the-badge" alt="Radius"></a>
+  <a href="https://radius.vercel.app"><img src="https://img.shields.io/badge/Radius-white?style=for-the-badge" alt="Radius"></a>
 <br />
   <a href="https://github.com/waleed2000x/CineX"><img src="https://img.shields.io/badge/CineX-Movie%20Platform-orange?style=for-the-badge" alt="CineX"></a>
 <br />
