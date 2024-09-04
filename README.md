@@ -1,6 +1,5 @@
-cat << 'EOF' > README.md
-![Header](https://waleeddev.vercel.app/assets/header.png) <!-- You can create a custom header image here -->
 
+![Header](https://waleeddev.vercel.app/assets/header.png)
 <h1 align="center">Hello, I'm Waleed Ahmed! 👋</h1>
 <h3 align="center">Full-Stack Developer | Mobile Enthusiast | MERN Stack Aficionado</h3>
 
